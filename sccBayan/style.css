@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+h1 {
+  font: 2em sans-serif;
+  padding: 20px;
+  margin: auto;
+  color: #000;
+}
